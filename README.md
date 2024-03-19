@@ -1,5 +1,9 @@
 ## NewsApp-Java
 
+# Screenshot
+
+![App_Screenshot.png](app%2Fsrc%2Fmain%2Fassets%2FApp_Screenshot.png)
+
 ## Major Highlights
 
 - **MVVM** architecture
