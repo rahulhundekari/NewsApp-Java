@@ -1,9 +1,5 @@
 ## NewsApp-Java
 
-# Screenshot
-
-![App_Screenshot.png](app%2Fsrc%2Fmain%2Fassets%2FApp_Screenshot.png)
-
 ## Major Highlights
 
 - **MVVM** architecture
@@ -11,3 +7,7 @@
 - **RxJava3** used for asynchronous handling of background tasks
 - **Unit testing** 
 - **Java Based Coding**
+
+## Screenshot
+
+![App_Screenshot.png](app%2Fsrc%2Fmain%2Fassets%2FApp_Screenshot.png)
